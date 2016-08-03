@@ -1,0 +1,172 @@
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\bin\Debug\Tracker.exe
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\bin\Debug\Tracker.pdb
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\obj\Debug\Tracker.Form1.resources
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\obj\Debug\Tracker.exe.licenses
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\obj\Debug\Tracker.exe
+C:\Users\Rose Zaidi\Desktop\Tracker\Tracker\obj\Debug\Tracker.pdb
+C:\QMS Android\Tracker\Tracker\bin\Debug\Tracker.exe.config
+C:\QMS Android\Tracker\Tracker\bin\Debug\Tracker.exe
+C:\QMS Android\Tracker\Tracker\bin\Debug\Tracker.pdb
+C:\QMS Android\Tracker\Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\QMS Android\Tracker\Tracker\obj\Debug\Tracker.Form1.resources
+C:\QMS Android\Tracker\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\QMS Android\Tracker\Tracker\obj\Debug\Tracker.SelectType.resources
+C:\QMS Android\Tracker\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+C:\QMS Android\Tracker\Tracker\obj\Debug\Tracker.exe.licenses
+C:\QMS Android\Tracker\Tracker\obj\Debug\Tracker.exe
+C:\QMS Android\Tracker\Tracker\obj\Debug\Tracker.pdb
+C:\QMS Android\Tracker new\Tracker\bin\Debug\Tracker.exe.config
+C:\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.exe
+C:\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.pdb
+C:\QMS Android\Tracker new\Tracker\bin\Debug\Tracker.exe
+C:\QMS Android\Tracker new\Tracker\bin\Debug\Tracker.pdb
+C:\QMS Android\Tracker new\Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.Form1.resources
+C:\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.SelectType.resources
+C:\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+C:\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.exe.licenses
+E:\QMS backup files\QMS Android\Tracker new\Tracker\bin\Debug\Tracker.exe.config
+E:\QMS backup files\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.exe
+E:\QMS backup files\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.pdb
+E:\QMS backup files\QMS Android\Tracker new\Tracker\bin\Debug\Tracker.exe
+E:\QMS backup files\QMS Android\Tracker new\Tracker\bin\Debug\Tracker.pdb
+E:\QMS backup files\QMS Android\Tracker new\Tracker\obj\Debug\ResolveAssemblyReference.cache
+E:\QMS backup files\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.Form1.resources
+E:\QMS backup files\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\QMS backup files\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.SelectType.resources
+E:\QMS backup files\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\QMS backup files\QMS Android\Tracker new\Tracker\obj\Debug\Tracker.exe.licenses
+C:\Users\FAHD\Desktop\Tracker new\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\Tracker.exe
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\Tracker.pdb
+C:\Users\FAHD\Desktop\Tracker new\Tracker\bin\Debug\Tracker.exe
+C:\Users\FAHD\Desktop\Tracker new\Tracker\bin\Debug\Tracker.pdb
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\Tracker.Form1.resources
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\Tracker.Login.resources
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\Tracker.SelectType.resources
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+C:\Users\FAHD\Desktop\Tracker new\Tracker\obj\Debug\Tracker.exe.licenses
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.exe.config
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.exe
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.pdb
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.exe
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.pdb
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\ResolveAssemblyReference.cache
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Form1.resources
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Login.resources
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.SelectType.resources
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\QMS backup files\QMS Android\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.exe.licenses
+E:\NIB\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.exe.config
+E:\NIB\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.exe
+E:\NIB\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.pdb
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\ResolveAssemblyReference.cache
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Form1.resources
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Login.resources
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.SelectType.resources
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.TransferToken.resources
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.UserControlCounterInfo.resources
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.exe.licenses
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.exe
+E:\NIB\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.pdb
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.exe
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.pdb
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\bin\Debug\Tracker.exe
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\bin\Debug\Tracker.pdb
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.Form1.resources
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.Login.resources
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.SelectType.resources
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.TransferToken.resources
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+C:\Users\Fahad\Documents\My Received Files\ZIALABTOP-PC\QMS Client\Tracker\obj\Debug\Tracker.exe.licenses
+C:\Users\Fahad\Desktop\QMS Client\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.exe
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.pdb
+C:\Users\Fahad\Desktop\QMS Client\Tracker\bin\Debug\Tracker.exe
+C:\Users\Fahad\Desktop\QMS Client\Tracker\bin\Debug\Tracker.pdb
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.Form1.resources
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.Login.resources
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.SelectType.resources
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.TransferToken.resources
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+C:\Users\Fahad\Desktop\QMS Client\Tracker\obj\Debug\Tracker.exe.licenses
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\bin\Debug\Tracker.exe.config
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.exe
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.pdb
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\bin\Debug\Tracker.exe
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\bin\Debug\Tracker.pdb
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\ResolveAssemblyReference.cache
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Form1.resources
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Login.resources
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.SelectType.resources
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.TransferToken.resources
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\NIB\QMS Client\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.exe.licenses
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\bin\Debug\Tracker.exe.config
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.exe
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.pdb
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\bin\Debug\Tracker.exe
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\bin\Debug\Tracker.pdb
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\ResolveAssemblyReference.cache
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Form1.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Login.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.SelectType.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.TransferToken.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client (fadi)\Tracker\obj\Debug\Tracker.exe.licenses
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\bin\Debug\Tracker.exe.config
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.exe
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.pdb
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\bin\Debug\Tracker.exe
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\bin\Debug\Tracker.pdb
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\ResolveAssemblyReference.cache
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Form1.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Login.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.SelectType.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.TransferToken.resources
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\NIB\QMS Client\QMS Client (fadi) 20 may\QMS Client (fadi)\QMS Client bank\QMS Client (fadi)\Tracker\obj\Debug\Tracker.exe.licenses
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.exe
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.pdb
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.exe
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\bin\Debug\Tracker.pdb
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Form1.resources
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Login.resources
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.SelectType.resources
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.TransferToken.resources
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+C:\Users\Mohsin Idrees\Downloads\QMS files (1)\QMS files\QMS Client\QMS Client\Tracker\obj\Debug\Tracker.exe.licenses
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\bin\Debug\Tracker.exe.config
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.exe
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.pdb
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\bin\Debug\Tracker.exe
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\bin\Debug\Tracker.pdb
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\ResolveAssemblyReference.cache
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.Form1.resources
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.Login.resources
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.SelectType.resources
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.TransferToken.resources
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\MS CS NPU Assignments\Summer 2016\CS595 - Computer Science Capstone Course\QMS Client\Tracker\obj\Debug\Tracker.exe.licenses
